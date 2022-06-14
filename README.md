@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello! 👋
+Chemical engineering and ... computer science?? You won't find that here, I just like to start random personal projects and add unnecessary spaces between lines of code.
+
+I'm currently working on:
+- 🌱 How to implement molecular dynamic simulations using LAMMPS
+- 🌱 A scraper to fetch and notify transcript updates from Minerva
+- 🌱 A scraper to automatically download textbooks from [redacted]
+
+I've worked on:
+- A minesweeper in Python and Java
 
 <!--
 **jennifertramsu/jennifertramsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
