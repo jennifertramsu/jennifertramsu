@@ -6,8 +6,12 @@ I'm currently working on:
 - 🌱 A scraper to fetch and notify transcript updates from Minerva
 - 🌱 A scraper to automatically download textbooks from [redacted]
 
-I've worked on:
-- A minesweeper in Python and Java
+Some previous projects:
+- Minesweeper in Python and Java
+- Two-phase flash calculation in MATLAB
+- Spatial concentration prediction of hygroscopic beads in MATLAB
+- Text-based console interactive story game based on Jack and the Beanstalk (hackathon)
+- Earth-Sun orbit simulation (hackathon)
 
 <!--
 **jennifertramsu/jennifertramsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
