@@ -8,8 +8,8 @@ I'm currently working on:
 
 Some previous projects:
 - Minesweeper in Python and Java
-- Two-phase flash calculation in MATLAB
-- Spatial concentration prediction of hygroscopic beads in MATLAB
+- Two-phase flash calculation in MATLAB (assignment)
+- Spatial concentration prediction of hygroscopic beads in MATLAB (assignment)
 - Text-based console interactive story game based on Jack and the Beanstalk (hackathon)
 - Earth-Sun orbit simulation (hackathon)
 - A half-functional discord bot that spits out kaomojis at your command
