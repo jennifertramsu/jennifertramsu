@@ -12,6 +12,7 @@ Some previous projects:
 - Spatial concentration prediction of hygroscopic beads in MATLAB
 - Text-based console interactive story game based on Jack and the Beanstalk (hackathon)
 - Earth-Sun orbit simulation (hackathon)
+- A half-functional discord bot that spits out kaomojis at your command
 
 <!--
 **jennifertramsu/jennifertramsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
