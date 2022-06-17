@@ -1,10 +1,12 @@
 ### Hello! 👋
 Chemical engineering and ... computer science?? You won't find that here, I just like to start random personal projects and add unnecessary spaces between lines of code.
 
-I'm currently working on:
-- 🌱 How to implement molecular dynamic simulations using LAMMPS
-- 🌱 A scraper to fetch and notify transcript updates from Minerva
-- 🌱 A scraper to automatically download textbooks from [redacted]
+🔭 I’m currently working on ...
+- A scraper to fetch and notify transcript updates from Minerva
+- A scraper to automatically download textbooks from [redacted]
+
+🌱 I'm currently learning ...
+- How to implement molecular dynamic simulations using LAMMPS
 
 Some previous projects:
 - Minesweeper in Python and Java
