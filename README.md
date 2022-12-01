@@ -3,10 +3,11 @@ Chemical engineering and ... computer science?? You won't find that here, I just
 
 <h3>🔭 I’m currently working on ...</h3>
 <li>A scraper to fetch and notify transcript updates from Minerva</li>
-<li>A scraper to automatically download textbooks from [redacted]</li>
+<li>Developing a machine learning model to colourize greyscale images</li>
 
 <h3>🌱 I'm currently learning ...</h3>
 <li>How to implement molecular dynamic simulations using LAMMPS</li>
+<li>How to develop machine learning models</li>
 
 <h3>Some previous projects:</h3>
 <li>Minesweeper in Python and Java</li>
