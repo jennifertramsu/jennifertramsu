@@ -4,7 +4,7 @@ Chemical engineering and ... computer science?? You won't find that here, I just
 <h3>🔭 I’m currently working on ...</h3>
 <li>A scraper to fetch and notify transcript updates from Minerva</li>
 <li>Implementing a Physics-Informed Neural Network in Julia</li>
-<li>A bioinformatics NGS pipeline to detect driver mutations</li>
+<li>A bioinformatics NGS pipeline to detect cancer driver mutations</li>
 
 <h3>🌱 I'm currently learning ...</h3>
 <li>How to implement molecular dynamic simulations using LAMMPS</li>
