@@ -11,8 +11,8 @@ Chemical engineering and ... computer science?? You won't find that here, I just
 <li>How to develop machine learning models</li>
 
 <h3>Some previous projects:</h3>
-<li>Molecular dynamics simulation of a CO2-H2O gas hydrate system to predict rheological properties<\li>
-<li>Convolutional neural network to colourize greyscale images<\li>
+<li>Molecular dynamics simulation of a CO2-H2O gas hydrate system to predict rheological properties</li>
+<li>Convolutional neural network to colourize greyscale images</li>
 <li>Minesweeper in Python and Java</li>
 <li>Two-phase flash calculation in MATLAB (assignment)</li>
 <li>Spatial concentration prediction of hygroscopic beads in MATLAB (assignment)</li>
