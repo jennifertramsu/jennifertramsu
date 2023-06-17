@@ -3,13 +3,16 @@ Chemical engineering and ... computer science?? You won't find that here, I just
 
 <h3>🔭 I’m currently working on ...</h3>
 <li>A scraper to fetch and notify transcript updates from Minerva</li>
-<li>Developing a machine learning model to colourize greyscale images</li>
+<li>Implementing a Physics-Informed Neural Network in Julia</li>
+<li>A bioinformatics NGS pipeline to detect driver mutations</li>
 
 <h3>🌱 I'm currently learning ...</h3>
 <li>How to implement molecular dynamic simulations using LAMMPS</li>
 <li>How to develop machine learning models</li>
 
 <h3>Some previous projects:</h3>
+<li>Molecular dynamics simulation of a CO2-H2O gas hydrate system to predict rheological properties<\li>
+<li>Convolutional neural network to colourize greyscale images<\li>
 <li>Minesweeper in Python and Java</li>
 <li>Two-phase flash calculation in MATLAB (assignment)</li>
 <li>Spatial concentration prediction of hygroscopic beads in MATLAB (assignment)</li>
