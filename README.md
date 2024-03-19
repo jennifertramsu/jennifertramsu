@@ -3,10 +3,11 @@ Chemical engineering and ... computer science?? You won't find that here, I just
 
 <h3>🔭 I’m currently working on ...</h3>
 <li>A scraper to fetch and notify transcript updates from Minerva</li>
+<li>Modeling the kinetics of a biotrickling filter</li>
 
 
 <h3>🌱 Some previous projects:</h3>
-<li> A ML pipeline to decode neural activity </li>
+<li>A ML pipeline to decode neural activity </li>
 <li>Implementing a Physics-Informed Neural Network in Julia</li>
 <li>A bioinformatics NGS pipeline to detect cancer driver mutations</li>
 <li>Molecular dynamics simulation of a CO2-H2O gas hydrate system to predict rheological properties</li>
